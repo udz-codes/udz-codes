@@ -6,9 +6,9 @@
 
 ### Some of my Projects that are up and running:
 ###### (Ordered from New to Older)
-* Notelor: [Website](https://notelor.herokuapp.com/) | [Repo](https://github.com/udz-codes/Notelor) 
-* Gutten Shop: [Website](https://gutten-shop.herokuapp.com/) | [Repo](https://github.com/udz-codes/GutenShop-Ecommerce-Website)
-* Portfolio: [udz.codes](www.udz.codes)
+* Notelor - Notepad Appication: [Website](https://notelor.herokuapp.com/) | [Repo](https://github.com/udz-codes/Notelor) 
+* Gutten Shop - Ecommerce Application: [Website](https://gutten-shop.herokuapp.com/) | [Repo](https://github.com/udz-codes/GutenShop-Ecommerce-Website)
+* Portfolio Website: [udz.codes](www.udz.codes)
 ---
 <h1 align="right"><a href="https://www.linkedin.com/in/udz/">Linkedin</a> | <a href="https://twitter.com/Uzwal_d">Twitter</a></h1>
 
