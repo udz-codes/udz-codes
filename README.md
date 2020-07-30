@@ -5,7 +5,7 @@
 ## `Self taught Web Developer and Graphic Designer`
 
 ### Some of my projects that are up and running:
-###### (Ordered from New to Older)
+###### (Ordered from Newer to Older)
 * Notelor - Notepad Appication: [Website](https://notelor.herokuapp.com/) | [Repo](https://github.com/udz-codes/Notelor) 
 * Gutten Shop - Ecommerce Application: [Website](https://gutten-shop.herokuapp.com/) | [Repo](https://github.com/udz-codes/GutenShop-Ecommerce-Website)
 * Portfolio Website: [udz.codes](www.udz.codes)
