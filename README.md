@@ -2,7 +2,7 @@
 
 <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="30%" align="right"/>
 
-## `Self taught Web Developer and Graphic Designer`
+### `Self taught Web Developer and "Graphic Designer"`
 
 ### Some of my projects that are up and running:
 ###### (Ordered from Newer to Older)
