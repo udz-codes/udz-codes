@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/LtAdDG9.jpg" width="100%"/>
 
-<img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="30%" align="right"/>
+<img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" width="40%" align="right"/>
 
 ### `Self taught Web Developer and "Graphic Designer"`
 
