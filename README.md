@@ -9,7 +9,7 @@
 * Notelor - Notepad Appication: [Website](https://notelor.herokuapp.com/) | [Repo](https://github.com/udz-codes/Notelor) 
 * Gutten Shop - Ecommerce Application: [Website](https://gutten-shop.herokuapp.com/) | [Repo](https://github.com/udz-codes/GutenShop-Ecommerce-Website)
 * Portfolio Website: [Link](https://udz.codes)
-<h1 align="right"><a href="https://www.linkedin.com/in/udz/">Linkedin</a> | <a href="https://twitter.com/Uzwal_d">Twitter</a></h1>
+<h1 align="right"><a href="https://www.linkedin.com/in/udz">Linkedin</a> | <a href="https://twitter.com/udz_codes">Twitter</a></h1>
 
 <!--
 **udz-codes/udz-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
