@@ -9,7 +9,7 @@
 * Pholio - Portfolio Website: [Website](https://pholio.tech) | [Repo](https://github.com/udz-codes/Pholio)
 * Notelor - Notepad Appication: [Website](https://notelor.herokuapp.com/) | [Repo](https://github.com/udz-codes/Notelor) 
 * Gutten Shop - Ecommerce Application: [Website](https://gutten-shop.herokuapp.com/) | [Repo](https://github.com/udz-codes/GutenShop-Ecommerce-Website)
-<p>
+<p><br>
   <p align="right"><a href="https://pholio.tech/udz-codes"><img src="https://i.imgur.com/EAIRn83.png" width="240"></a></p>
   <h1 align="right"><a href="https://www.linkedin.com/in/udz">Linkedin</a> | <a href="https://twitter.com/udz_codes">Twitter</a></h1>
 </p>
