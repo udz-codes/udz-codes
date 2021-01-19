@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/LtAdDG9.jpg" width="100%"/>
+<img src="https://i.imgur.com/qUFn346.png" width="100%"/>
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%" align="right"/>
 
