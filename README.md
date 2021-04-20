@@ -6,7 +6,7 @@
 
 #### Some of my projects that are up and running:
 ###### (Ordered from Newer to Older)
-* Pholio - Portfolio Website: [Website](https://pholio.tech) | [Repo](https://github.com/udz-codes/Pholio)
+* Pholio - Portfolio webpage creator: [Website](https://pholio.tech) | [Repo](https://github.com/udz-codes/Pholio)
 * Notelor - Notepad Appication: [Website](https://notelor.herokuapp.com/) | [Repo](https://github.com/udz-codes/Notelor) 
 * Gutten Shop - Ecommerce Application: [Website](https://gutten-shop.herokuapp.com/) | [Repo](https://github.com/udz-codes/GutenShop-Ecommerce-Website)
 <p><br>
