@@ -5,8 +5,9 @@
 # `Web application developer`
 
 ## Projects:
-### 1. [Pholio - Portfolio webpage creator](https://pholio.tech) : [Repo](https://github.com/udz-codes/Pholio)
-### 2. [Notelor - Notepad Appication](https://notelor.herokuapp.com/) : [Repo](https://github.com/udz-codes/Notelor) 
+### 1. [E-commerce t-shirt shirt](https://skuffed-store.herokuapp.com) : [Repo](https://github.com/udz-codes/skuffed-store) 
+### 2. [Pholio - Portfolio webpage creator](https://pholio.tech) : [Repo](https://github.com/udz-codes/Pholio)
+### 3. [Notelor - Notepad Appication](https://notelor.herokuapp.com/) : [Repo](https://github.com/udz-codes/Notelor) 
 
 ## Blog posts:
 ### 1. [Use GraphQL with Flutter](https://udz.hashnode.dev/flutter-gql)
