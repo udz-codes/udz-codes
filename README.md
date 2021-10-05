@@ -17,7 +17,7 @@
   <h1 align="right"><a href="https://www.linkedin.com/in/udz">Linkedin</a> | <a href="https://twitter.com/udz_codes">Twitter</a></h1>
 </p>
  -->
- 
+
 <h1 align="center">Hi 👋, I'm Ujjwaldeep Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -28,6 +28,8 @@
 - 💬 Ask me about **Frontend development, React, Flutter.**
 
 - 📫 Reach out to me at **ujjwal2699singh@gmail.com**
+
+<img src="https://activity-graph.herokuapp.com/graph?username=udz-codes&theme=react-dark&hide_border=true" alt="graph" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
