@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/qUFn346.png" width="100%"/>
+<!-- <img src="https://i.imgur.com/qUFn346.png" width="100%"/> -->
 
 <!-- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%" align="right"/> -->
 
@@ -18,6 +18,7 @@
 </p>
  -->
 
+<div align="center"><h3>Welcome, Visitor number</h3><img src="https://profile-counter.glitch.me/udz-codes/count.svg"/></div>
 <h1 align="center">Hi 👋, I'm Ujjwaldeep Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
