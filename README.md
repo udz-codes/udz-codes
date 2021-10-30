@@ -22,6 +22,8 @@
 <h1 align="center">Hi 👋, I'm Ujjwaldeep Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+- 🚧 Currently building [Mockoin - Cryptocurrency exchange simulator](https://github.com/udz-codes/mockoin) 
+
 - 🌱 I’m currently learning **Advanced ReactJs and Flutter**
 
 - 📝 I regularly write articles on [https://udz.hashnode.dev](https://udz.hashnode.dev)
